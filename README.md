@@ -1,5 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project 
-I have used getStaticProps to request data 
+##Description
+This is a simple test application to show the creating of the list and the developemt of the client-side search by the list 
+
+I have used getServerside props to request data 
 The search is realised by custom React Hook 
 The design of the app is realised by use of tailwind.css
 
